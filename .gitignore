@@ -1,0 +1,8 @@
+.idea/*
+.DS_Store
+target/*
+volumes/*
+*.iml
+.vscode/*
+.history/*
+*/node_modules/*
